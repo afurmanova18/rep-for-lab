@@ -1,0 +1,9 @@
+*.tlb
+*.exe
+*.pdb
+bin
+*.vs
+*.vcxproj
+*.filters
+*.user
+
